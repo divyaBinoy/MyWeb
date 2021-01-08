@@ -83,7 +83,7 @@ p {
 
 .menu {
    
-    //list-style: none;
+    list-style: none;
     font-family: sans-serif;
     position:absolute;
     top:10px;
